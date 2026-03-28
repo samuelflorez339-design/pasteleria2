@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
-$password = "";
-$db = "pasteleria";
+$host = "mysql-florezapi.alwaysdata.net";
+$user = "florezapi";
+$password = "samuflo";
+$db = "";
 
 $conn = new mysqli($host, $user, $password, $db);
 
